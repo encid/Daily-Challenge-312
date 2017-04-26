@@ -18,8 +18,7 @@ namespace DailyChallenge312
                 { "T", "7" },
                 { "V", @"\/" },
                 { "W", @"`//" }
-            };        
-    
+            };     
 
         static void Main(string[] args)
         {
